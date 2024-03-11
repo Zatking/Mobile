@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116583434198",
+    "project_id": "oggyairlines",
+    "storage_bucket": "oggyairlines.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116583434198:android:a59b18dfacb8d82fd6c677",
+        "android_client_info": {
+          "package_name": "com.sinhvien.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmkhdhtKlbd_TOOw4_eYuDlegWsCLv6h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
